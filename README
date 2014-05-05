@@ -1,0 +1,30 @@
+Ryan Geary
+CPSC 4040
+Final Proejct
+4 December 2013
+
+To compile this program, you can run it with "make" in the command line.
+
+To run this program, enter the commands 
+"colorpalette <Input image file> <Output image file> <Palette Text File>".  The palette text file
+is simply a text file with rgb values on each line representing a select color on the 
+palette.  Several .txt files are provided to run demos of this program.
+
+Included .txt files:
+2.txt - includes only black and white on the palette.
+3.txt - includes the colors red, green, and blue.
+5.txt - includes red, green, blue, black, and white.
+8.txt - includes red, orange, yellow, green, blue, indigo, violet, black, and white.
+100.txt - includes an assortment of around 100 colors.
+b.txt - includes only shades of blue.
+r.txt - includes only shades of red.
+g.txt - includes only shades of green.
+sm.txt - includes blue, red, black, and white
+grey.txt - includes only shades of grey.
+
+You may create your own txt file of rgb coordinates if desired.
+
+The file will be automatically written to the output image file location with the desired
+color changes automatically applied to the image.
+
+
