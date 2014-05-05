@@ -1,6 +1,4 @@
 Ryan Geary
-CPSC 4040
-Final Proejct
 4 December 2013
 
 To compile this program, you can run it with "make" in the command line.
@@ -10,7 +8,7 @@ To run this program, enter the commands
 is simply a text file with rgb values on each line representing a select color on the 
 palette.  Several .txt files are provided to run demos of this program.
 
-Included .txt files:
+Included Palette Text Files to use:
 2.txt - includes only black and white on the palette.
 3.txt - includes the colors red, green, and blue.
 5.txt - includes red, green, blue, black, and white.
