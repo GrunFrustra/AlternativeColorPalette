@@ -2,9 +2,7 @@
    AlphaMask Maker 
 
    Ryan Geary
-   CPSC 4040
-   rgeary@clemson.edu
-   4 December 2013
+
 
    This program implements a limited color palette on an image.  An image
    will be taken in as an input and, using a text file, each pixel's color
